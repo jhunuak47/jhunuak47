@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Navin Kumar - {Jhunu}</h1>
 <h3 align="center">I'm a Student, Developer,and blah blah !</h3>
+
 - 📫 How to reach me **Jhunu1201@gmail.com**
+
 - ⚡ Fun fact **I think I am Funny XD**
-
-![image_processing](https://user-images.githubusercontent.com/53902904/144898299-c6c2c3b3-58c1-4013-8e0e-5a7db48e0c11.gif)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
