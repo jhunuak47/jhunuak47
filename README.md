@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Navin Kumar - {Jhunu}</h1>
+<h1 align="center">Hi 👋, I'm Navin - {Jhunu}</h1>
 <h3 align="center">I'm a Student, Developer,and blah blah !</h3>
 
 - 📫 How to reach me **Jhunu1201@gmail.com**
